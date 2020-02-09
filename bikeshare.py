@@ -20,7 +20,7 @@ MONTHS = [
     "september",
     "october",
     "november",
-]
+]   "december",
 DAYS = [
     "sunday",
     "monday",
