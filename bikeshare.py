@@ -28,7 +28,7 @@ DAYS = [
     "wednesday",
     "thursday",
     "friday",
-    "saturday",
+  
 ]
 CITIES = ["chicago", "new york city", "washington"]
 
